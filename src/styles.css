@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: #17be95;
+}
+.App .Test,
+.App .Champion {
+  color: #1e856b;
+  background: aqua;
+}
+
+h1 {
+  font-size: 54px;
+  color: rgb(236, 198, 26);
+  background: #1e856b;
+}
+
+h2 {
+  font-size: 24px;
+  color: rgb(89, 255, 139);
+  background: #aa30c9;
+}
